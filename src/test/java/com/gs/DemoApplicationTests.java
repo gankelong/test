@@ -35,4 +35,8 @@ public class DemoApplicationTests {
 		//aaaaaa
 	}
 
+	public void aa(){
+	//123
+	}
+
 }
