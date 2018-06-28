@@ -15,4 +15,18 @@ public class DemoApplicationTests {
 		//aaaaaa
 	}
 
+	@Test
+	public void contextLoadsrrrrrrrr() {
+		//bbb
+		//aaaaaa
+	}
+
+
+
+	@Test
+	public void contextLoadsrr111111rr() {
+		//bbb
+		//aaaaaa
+	}
+
 }
