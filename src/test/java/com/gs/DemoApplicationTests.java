@@ -13,26 +13,9 @@ public class DemoApplicationTests {
 	public void contextLoads() {
 		//bbb
 		//aaaaaa
-	}
-	
-	@Test
-	public void contextLoads() {
-		//123456
-		//zxcvb
-	}
-
-	@Test
-	public void contextLoadsrrrrrrrr() {
-		//bbb
-		//aaaaaa
-	}
-
-
-
-	@Test
-	public void contextLoadsrr111111rr() {
-		//bbb
-		//aaaaaa
+		
+		//sssssssss
+		//22222
 	}
 
 }
