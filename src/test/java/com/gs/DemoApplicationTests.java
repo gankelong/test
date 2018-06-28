@@ -12,43 +12,8 @@ public class DemoApplicationTests {
 	@Test
 	public void contextLoads() 
 		//kelon
-		//aoao
-		//liuping
-	}
-
-	public void aa(){
-	//123
-	//223
-	//323
-	}
-
-	public void bb(){
-	//ccccc
-	//ddd
-	//eeee
-	//ffff
-	//gg
-	//1111111
-	}
-
-	public void cc(){
-	//dsafdsafds
-	//fdsafdsa
-	}
-
-	//xxxxxxxxxxxxxxxxxxxx
-	public void dafdsa(){
-	//ds1232132131231
-	//fddfadas
 	}
 
 
-	public void dafd213213sa(){
-	//ds123ccdsfsd
-	//fd12321s
-	}
-	public void main(){
-	//aaa
-	}
-
+	
 }
