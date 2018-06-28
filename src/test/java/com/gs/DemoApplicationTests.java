@@ -14,6 +14,12 @@ public class DemoApplicationTests {
 		//bbb
 		//aaaaaa
 	}
+	
+	@Test
+	public void contextLoads() {
+		//123456
+		//zxcvb
+	}
 
 	@Test
 	public void contextLoadsrrrrrrrr() {
