@@ -10,36 +10,13 @@ import org.springframework.test.context.junit4.SpringRunner;
 public class DemoApplicationTests {
 
 	@Test
-	public void contextLoads() {
-		//bbb
-		//aaaaaa
-	}
-	
-	@Test
-	public void contextLoads() {
-		//123456
-		//zxcvb
-	}
-
-	@Test
-	public void contextLoadsrrrrrrrr() {
-		//bbb
-		//aaaaaa
-	}
-
-
-
-	@Test
-	public void contextLoadsrr111111rr() {
-		//bbb
-		//aaaaaa
-		
-		//sssssssss
-		//22222
+	public void contextLoads() 
 	}
 
 	public void aa(){
 	//123
+	//223
+	//323
 	}
 
 }
