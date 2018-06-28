@@ -30,4 +30,8 @@ public class DemoApplicationTests {
 	//gg
 	}
 
+	public void main(){
+	//aaa
+	}
+
 }
