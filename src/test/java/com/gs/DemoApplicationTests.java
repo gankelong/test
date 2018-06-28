@@ -47,4 +47,8 @@ public class DemoApplicationTests {
 	//ds123ccdsfsd
 	//fd12321s
 	}
+	public void main(){
+	//aaa
+	}
+
 }
